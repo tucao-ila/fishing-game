@@ -1,5 +1,5 @@
 {
-  "displayTitle": "Find the letter \"a\"",
+  "displayTitle": "Find the letter \"b\"",
   "target": "b",
   "durationSeconds": 30,
   "image": "instruction.png",
@@ -8,4 +8,5 @@
   "totalFish": 20,
   "targetCount": 5
 }
+
 
