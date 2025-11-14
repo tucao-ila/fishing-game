@@ -1,8 +1,10 @@
 {
-    "displayTitle": "Find the letter \"a\"",
-    "target": "a",
+    "displayTitle": "Find the letter \"b\"",
+    "target": "b",
     "durationSeconds": 30,
     "image": "instruction.png",
     "audio": "instruction.mp3",
-    "lettersPool": [ "a", "b", "c", "d" ]
+    "lettersPool": [ "a", "b", "c", "d" ],
+    "totalFish": 10,
+    "targetCount": 10
 }
